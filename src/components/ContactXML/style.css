@@ -1,0 +1,26 @@
+#containerCanvas {
+    margin: 0 auto;
+    width: 80%;
+    height: 350px;
+}
+
+.highlight-overlay {
+    display: block;
+    cursor: pointer;
+}
+
+.count-overlay {
+    border-radius: 50%;
+    background-color: deepskyblue;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+    font-weight: bold;
+    right: 0;
+    position: absolute;
+    margin: 0.2rem 0.2rem 0 0;
+}

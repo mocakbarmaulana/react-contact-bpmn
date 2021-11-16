@@ -1,0 +1,35 @@
+thead {
+    border: 1px solid #fff;
+}
+
+td {
+    padding: 0.5rem;
+}
+
+.table {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid #000;
+}
+
+.wrapperButton {
+    width: 200px;
+    text-align: center;
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    border-radius: 12px;
+}
+
+.buttonClaim {
+    background-color: lawngreen;
+    margin-right: 1rem;
+}
+
+.buttonClaimed {
+    margin-left: 1rem;
+    background-color: indianred;
+}
